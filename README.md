@@ -1,4 +1,4 @@
-# 🏄‍♂️ Adam Pascoal
+# 👨‍💻 Adam Pascoal
 
 **`IT Support Analyst`**
 
