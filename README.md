@@ -6,7 +6,7 @@ I'm an IT professional with a unique journey that began in Payroll but has since
 
    <p align="left">
       <a href="https://www.linkedin.com/in/adampascoal/">
-         <img alt="Linkedin" title="Subscribe to my YouTube channel" src="https://github.com/lifeitech/iconic-resume/tree/3d954e05ff85d7e7cf43e529cf5d43f5efc162ed/imgs/linkedin.png"></a> 
+         <img alt="Linkedin" title="Subscribe to my YouTube channel" src="https://github.com/lifeitech/iconic-resume/blob/master/imgs/linkedin.png?raw=true"></a> 
       
    </p>
 
