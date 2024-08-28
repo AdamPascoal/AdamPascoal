@@ -1,5 +1,5 @@
 
-<img align="center" height="70" src="https://i.pinimg.com/564x/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg"  >
+<img align="center" src="https://i.pinimg.com/564x/a9/a8/53/a9a8533cd3f519ab8928ef5696f16f9a.jpg"  >
 
 # 👨‍💻 Adam Pascoal
 
