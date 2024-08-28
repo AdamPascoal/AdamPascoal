@@ -30,6 +30,11 @@ I'm an IT professional with a unique journey that began in Payroll but has since
 <br>
 
 ---
+### 📊 Stats
+
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamPascoal&show_icons=true&theme=radical)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 ### 📊 Projects
 
