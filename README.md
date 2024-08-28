@@ -27,6 +27,9 @@ I'm an IT professional with a unique journey that began in Payroll but has since
    <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" />
    <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" />
 <br />
+<br>
+
+---
 
 ### 📊 Projects
 
