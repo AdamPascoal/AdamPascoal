@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Adam Pascoal
 
-**'Cyber sec Enthusiast'**
+**Cyber sec Enthusiast**
 
 Here are some ideas to get you started:
 
